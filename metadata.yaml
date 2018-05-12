@@ -1,0 +1,36 @@
+_repo: The-Hollow-Tree-Snowed-in-Bookand-Deep-Woods-people_38896
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Condé, J. M.
+    alias: Conde, J. M.
+    gutenberg_agent_id: '26466'
+    url: http://www.gutenberg.org/2009/agents/26466
+covers:
+- cover_type: archival
+  image_path: 38896-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Paine, Albert Bigelow
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '1076'
+    url: http://www.gutenberg.org/2009/agents/1076
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
+description: ''
+gutenberg_issued: '2012-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Trees -- Juvenile fiction'
+- !lcsh 'Imaginary places -- Juvenile fiction'
+- !lcc 'PZ'
+title: "The Hollow Tree Snowed-in Book\r\nbeing a continuation of the stories about\
+  \ the Hollow Tree and Deep Woods people"
+url: http://www.gutenberg.org/ebooks/38896
