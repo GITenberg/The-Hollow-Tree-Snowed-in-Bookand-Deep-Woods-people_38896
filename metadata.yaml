@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1076
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38896#The-Hollow-Tree-Snowed-in-Bookand-Deep-Woods-people
 gutenberg_issued: '2012-02-16'
 gutenberg_type: Text
 identifiers:
